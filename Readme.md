@@ -1,4 +1,5 @@
-Ingrediënten
+# lekkere tikka masala van kip
+## ingrediënten
 - 1 bosje verse koriander
 - arachide- of zonnebloemolie
 - 1 klontje boter
@@ -12,3 +13,6 @@ Ingrediënten
 - 200 g biologische yoghurt
 - een klein handje geschaafde amandelen
 - 1 citroen
+
+![masala van kip](https://www.receptenvandaag.nl/upload/images/61_eten-vandaag-recept-jamie-oliver-tikka-masala-kip-medium.jpg?width=655&height=454&cut=1
+)
