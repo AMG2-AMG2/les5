@@ -1,5 +1,5 @@
 # lekkere tikka masala van kip
-## ingrediënten
+## ingrediënten:
 - 1 bosje verse koriander
 - arachide- of zonnebloemolie
 - 1 klontje boter
